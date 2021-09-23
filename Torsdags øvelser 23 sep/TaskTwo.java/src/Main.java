@@ -13,6 +13,7 @@ class Main{
     }
 
 
+    //task 2a
     public static boolean iAmHappy()
     {
         // fill out what is missing here:
@@ -24,11 +25,22 @@ class Main{
         }
 
     }
-}
 
+
+//task 2b
 int num1 = 25;
 int num2 = 35;
 
-sum=x+y;
+int sum=num1+num2;
 
-System.out.println("the sum of the two numbers is", sum);
+System.out.println("the sum of the two numbers is" + sum);
+
+}
+
+//task 2c
+public static String toUpperCase(){
+    String sentence= "Dette bliver skrevet med stort";
+System.out.println(String sentence);
+}
+
+//task 2d
