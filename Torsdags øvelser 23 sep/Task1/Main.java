@@ -1,4 +1,4 @@
-// task 1 functions
+// Task 1 functions
 
 public class Main{
 
