@@ -26,8 +26,8 @@ class Main{
     }
 }
 
-int y = 25;
-int x = 35;
+int num1 = 25;
+int num2 = 35;
 
 sum=x+y;
 
